@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nigeria-trivia/static/css/main.42c1d7aa.css",
-    "main.js": "/nigeria-trivia/static/js/main.47318d61.js",
+    "main.css": "/nigeria-trivia/static/css/main.b08466d3.css",
+    "main.js": "/nigeria-trivia/static/js/main.6a7bce2c.js",
     "index.html": "/nigeria-trivia/index.html",
-    "main.42c1d7aa.css.map": "/nigeria-trivia/static/css/main.42c1d7aa.css.map",
-    "main.47318d61.js.map": "/nigeria-trivia/static/js/main.47318d61.js.map"
+    "main.b08466d3.css.map": "/nigeria-trivia/static/css/main.b08466d3.css.map",
+    "main.6a7bce2c.js.map": "/nigeria-trivia/static/js/main.6a7bce2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.42c1d7aa.css",
-    "static/js/main.47318d61.js"
+    "static/css/main.b08466d3.css",
+    "static/js/main.6a7bce2c.js"
   ]
 }
